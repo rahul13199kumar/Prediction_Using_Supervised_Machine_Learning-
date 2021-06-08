@@ -4,3 +4,11 @@ In this regression task I will predict the percentage of marks that a student is
 
 
 
+# Contributor 
+
+rahul13199kumar 
+
+
+# Contributing
+
+  If you'd like to add a repository to the list, please create an Issue, or fork this repository and submit a pull request.
